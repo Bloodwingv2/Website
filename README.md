@@ -16,3 +16,7 @@ G-Stream! is an interactive web project developed as one of the final projects i
 ## Conclusion
 
 This project demonstrates my ability to create engaging, interactive websites with a focus on both design and functionality. G-Stream! reflects my commitment to continuous learning, and I am eager to explore new techniques and push the boundaries of creativity in future web development projects.
+
+## Live Demo
+
+Check out the live demo of the project here: [Live Demo](https://bloodwingv2.github.io/Website/)
