@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-G-Stream! is an interactive web project developed as one of the final projects in the CS50 Harvard course. It showcases various gaming genres while highlighting my web development skills. The website features a custom-built navigation bar with smooth transitions, immersive background videos, and unique fonts. Interactive CSS buttons and seamless hyperlinks provide easy navigation, and the responsive design ensures an optimal experience across all devices.
+G-Stream! is an interactive web project developed as one of the final projects in the CS50 Harvard course, During my 2nd year in College. It showcases various gaming genres while highlighting my web development skills. The website features a custom-built navigation bar with smooth transitions, immersive background videos, and unique fonts. Interactive CSS buttons and seamless hyperlinks provide easy navigation, and the responsive design ensures an optimal experience across all devices.
 
 ## Key Features
 
